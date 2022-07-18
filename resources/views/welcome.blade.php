@@ -2,10 +2,11 @@
 
 @section('content')
 
-    <div class="container">
+<h1> Titulo Pagina Principal </h1>
 
-        <h1>Hola</h1>
+<p> 
+Aqui ira un texto sobre de que tratara la pagina.    
 
-    </div>
+</p>
 
 @endsection
